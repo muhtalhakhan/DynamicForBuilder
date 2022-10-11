@@ -1,0 +1,22 @@
+{
+  "name": "formbuilder-react",
+  "version": "1.0.0",
+  "description": "React project using formBuilder",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "formBuilder": "3.0.2",
+    "jquery-ui-sortable": "1.0.0",
+    "react": "16.4.2",
+    "react-dom": "16.4.2",
+    "react-form-builder2": "0.8.6",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
